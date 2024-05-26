@@ -6,7 +6,7 @@ Hello! I'm Louis, a high school student currently pursuing my Abitur at a Techni
 
 ## Projects
 
-### Discord Bots for [Drachen Kult Community](https://drachenkult.de)
+### Discord Bots for [Drachen Kult Community](https://drachenkult.com)
 
 Over the past year, I've developed multiple Discord bots for the Drachen Kult community. These projects have allowed me to hone my skills in Python, bot development, and community engagement. Here are some highlights:
 
