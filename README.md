@@ -30,7 +30,7 @@ Over the past year, I've developed multiple Discord bots for the Drachen Kult co
 ## Skills
 
 - **Programming Languages:** Python, HTML, CSS
-- **Frameworks and Libraries:** Flask, Django, discord.py, MySQL
+- **Frameworks and Libraries:** Flask, Django, pyCord, MySQL
 - **Tools and Platforms:** Git, GitHub, Discord, VS Code
   
 <!--
