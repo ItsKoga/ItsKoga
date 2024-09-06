@@ -16,7 +16,7 @@ Over the past year, I've developed multiple Discord bots for the Drachen Kult co
      - Randomly selects a quiz and sends it.
      - Accepts user guesses and validates them.
      - Keeps track of correct guesses and scores.
-   - **Technologies Used:** Python, pyCord, Emojis(package)
+   - **Technologies Used:** Python, py-cord, Emojis(package)
 
 2. **Easter Event Bot**
    - **Description:** This bot was designed for an Easter event where users could collect and interact with virtual eggs.
@@ -25,12 +25,12 @@ Over the past year, I've developed multiple Discord bots for the Drachen Kult co
      - Chocolate eggs score points, cooked eggs can be used for baking or egg tapping, and raw eggs can be thrown at other users.
      - Implements a baking system where users can use collected ingredients to bake cakes.
      - Tracks user actions and scores throughout the event.
-   - **Technologies Used:** Python, pyCord
+   - **Technologies Used:** Python, py-cord
 
 ## Skills
 
 - **Programming Languages:** Python, HTML, CSS
-- **Frameworks and Libraries:** Flask, Django, pyCord, MySQL
+- **Frameworks and Libraries:** Flask, Django, py-cord, MySQL
 - **Tools and Platforms:** Git, GitHub, Discord, VS Code
   
 <!--
