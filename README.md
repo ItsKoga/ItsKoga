@@ -48,6 +48,7 @@ A Django portfolio for motorcycle photography. The interesting part: untagged ph
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![py-cord](https://img.shields.io/badge/py--cord-5865F2?style=flat-square&logo=discord&logoColor=white)
+
 **Infrastructure & tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -57,15 +58,6 @@ A Django portfolio for motorcycle photography. The interesting part: untagged ph
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 📊 Stats
-
-<p>
-  <img src="https://raw.githubusercontent.com/ItsKoga/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub stats" />
-  <img src="https://raw.githubusercontent.com/ItsKoga/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Top languages" />
-</p>
 
 ---
 
